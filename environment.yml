@@ -1,0 +1,11 @@
+name: gazeshift_latency
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-magrittr
+  - r-dplyr
+  - r-knitr
+  - r-rmarkdown
